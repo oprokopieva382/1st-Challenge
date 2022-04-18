@@ -1,0 +1,29 @@
+body {
+  font-family: "Poppins", sans-serif;
+  color: gray;
+}
+.container {
+  max-width: 50%;
+}
+.sun {
+  font-size: 70px;
+}
+.degree {
+  font-size: 70px;
+  color: black;
+}
+.col {
+  text-align: center;
+}
+.clearfix {
+  font-weight: bold;
+}
+.weather-app {
+  border: 1px solid;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 30px;
+}
+ul {
+  list-style-type: none;
+}
